@@ -6,9 +6,14 @@ Project 1: National Survey of Children's Health (NSCH) Dataset Analysis
 Date: April 2025
 This project examines how bullying, sleep quality, and parental mental health influence a child's overall mental well-being. I used the official National Survey of Children's Health (NSCH) dataset and performed statistical analysis including probability, relative risk, and odds ratios. The analysis was done in Python using Pandas. The goal was to understand important factors affecting children's mental health and highlight the importance of early support.
 
-Project 2: Car Price Prediction
-Date: June 2024
-I built a regression model to predict car prices using features such as engine specifications, horsepower, mileage, and more. The model achieved an R-squared score of 0.88. I used Linear Regression, feature engineering, VIF, RFE, and StatsModels to refine and tune the model. This project helped me understand how numeric features influence pricing and how to build reliable regression models.
+Project 2: Customer Behaviour Dashboard using Power Bi, Python and SQL
+Date: DEC 2025 
+Performed data cleaning, validation, and exploratory data analysis using Python to identify customer trends and
+patterns.
+Used SQL queries to analyze customer behavior and extract key business insights. Built an interactive Power BI
+dashboard with visualizations and KPIs to support data-driven decision-making.
+
+
 
 Project 3: Digit Classifier using SVM
 Date: May 2025
@@ -33,4 +38,5 @@ Jupyter Notebooks
 
 Contact
 akashjha40@gmail.com
+
 linkedin: www.linkedin.com/in/akashjha40   
