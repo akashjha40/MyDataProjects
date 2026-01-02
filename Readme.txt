@@ -1,6 +1,6 @@
-My Data Science and Machine Learning Projects
+My Data Analysis and Machine Learning Projects
 
-This repository contains several data science and machine learning projects that I have completed while learning statistics, machine learning, model evaluation, and real-world data analysis. Each project focuses on understanding the data, applying the right methods, and explaining results clearly.
+This repository contains several data Analytics and machine learning projects that I have completed while learning Data Analysis, machine learning, model evaluation, and real-world data analysis. Each project focuses on understanding the data, applying the right methods, and explaining results clearly.
 
 Project 1: National Survey of Children's Health (NSCH) Dataset Analysis
 Date: April 2025
@@ -40,3 +40,4 @@ Contact
 akashjha40@gmail.com
 
 linkedin: www.linkedin.com/in/akashjha40   
+
