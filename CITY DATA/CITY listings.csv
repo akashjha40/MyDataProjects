@@ -1,0 +1,861 @@
+RENT,AREA_SQFT,BHK,FURNISHED,ADDRESS,CITY
+14000,1200,3 BHK,Unfurnished,"Niwaru  Road, Jaipur",Jaipur
+50000,250,5 BHK,Unfurnished,"Katewa Nagar, Jaipur",Jaipur
+1600000,2700,12 BHK,Furnished,Vatika Infotech  City,Jaipur
+17500,2000,2 BHK,Unfurnished,"Jhotwara, Jaipur",Jaipur
+100000,2250,7 BHK,Furnished,"Officers Campus Extension, Jaipur",Jaipur
+16000,756,2 BHK,Furnished,"Jadishpuri colony, Opp. Chitrakoot, Vaishali Nagar",Jaipur
+25000,2000,2 BHK,Unfurnished,"Malviya Nagar, Jaipur",Jaipur
+45000,1200,4 BHK,Unfurnished,"Jagatpura, Jaipur",Jaipur
+16000,1500,3 BHK,Unfurnished,"Bhartendu Nagar, Jaipur",Jaipur
+55000,150,3 BHK,Furnished,"Siddharth Nagar, Jaipur",Jaipur
+65000,3000,5 BHK,Furnished,Railway Colony,Jaipur
+23500,900,3 BHK,Unfurnished,PJ Krishna Sagar,Jaipur
+30000,765,3 BHK,Furnished,jaipur homes,Jaipur
+300000,4500,6 BHK,Furnished,"Nemi Nagar, Jaipur",Jaipur
+1500000,4275,5 BHK,Furnished,bees dukan,Jaipur
+8000,650,1 BHK,Unfurnished,"Pratap Nagar, Jaipur",Jaipur
+3000,1650,3 BHK,Unfurnished,"Bhagwan Nagar, Jaipur",Jaipur
+8000,1800,2 BHK,Unfurnished,"govind vhiar vaishali nagar, Jaipur",Jaipur
+13000,100,2 BHK,Unfurnished,"Patrakar Colony, Jaipur",Jaipur
+6000,800,2 BHK,Unfurnished,All India Services Residency,Jaipur
+26000,2100,3 BHK,Unfurnished,Vardhaman Patrakar Colony,Jaipur
+30000,2406,3 BHK,Unfurnished,"Officers Campus Colony, Jaipur",Jaipur
+20000,1500,2 BHK,Unfurnished,"Madhyam Marg, Jaipur",Jaipur
+16000,1020,2 BHK,Furnished,"Model Town, Jaipur",Jaipur
+25000,1000,2 BHK,Unfurnished,"Bani Park, Jaipur",Jaipur
+19000,1350,2 BHK,Furnished,"Mangyawas, Jaipur",Jaipur
+20000,850,3 BHK,Unfurnished,Mahimas Kopal,Jaipur
+100000,3000,5 BHK,Furnished,"Jawahar Nagar, Jaipur",Jaipur
+10000,900,1 BHK,Unfurnished,"Janta Colony, Jaipur",Jaipur
+10000,648,2 BHK,Unfurnished,"Sector 26 Pratap Nagar, Jaipur",Jaipur
+25000,110,2 BHK,Furnished,"Goner Road, Jaipur",Jaipur
+14000,1000,1 BHK,Furnished,Xaviers Arcade II Chainpura,Jaipur
+15000,999,3 BHK,Unfurnished,Monika Vihar 5,Jaipur
+25000,1500,2 BHK,Unfurnished,"Janta Colony, Jaipur",Jaipur
+6500,150,1 BHK,Unfurnished,"Ram Nagar Extension, Jaipur",Jaipur
+18000,1600,3 BHK,Unfurnished,"Govindpura, Jaipur",Jaipur
+10000,1000,3 BHK,Unfurnished,"Manchwa, Jaipur",Jaipur
+15000,1404,2 BHK,Unfurnished,"Sanganer,Pratap Nagar, Jaipur",Jaipur
+9500,1800,2 BHK,Unfurnished,Ashadeep Greens,Jaipur
+14000,3000,1 BHK,Furnished,"sector 6 Jawahar Nagar, Jaipur",Jaipur
+20000,500,1 BHK,Furnished,Tirupati Unnati Vihar,Jaipur
+10000,1125,2 BHK,Unfurnished,"Narayan City, Jaipur",Jaipur
+22000,850,2 BHK,Furnished,"Sector 18 Pratap Nagar, Jaipur",Jaipur
+30000,1000,3 BHK,Furnished,Shivam nagar,Jaipur
+16000,230,2 BHK,Unfurnished,Mahimas Iris,Jaipur
+16500,500,1 BHK,Furnished,"Sector 11 Pratap Nagar, Jaipur",Jaipur
+16000,1000,1 BHK,Furnished,"Sector 7 Mansarovar, Jaipur",Jaipur
+25000,1500,2 BHK,Unfurnished,"Sector 6 Malviya Nagar, Jaipur",Jaipur
+28500,1600,3 BHK,Unfurnished,"Nirman Nagar, Jaipur",Jaipur
+16000,1350,2 BHK,Unfurnished,"Sector 9 Pratap Nagar, Jaipur",Jaipur
+100000,3000,4 BHK,Furnished,"Jawahar Nagar, Jaipur",Jaipur
+15000,1500,2 BHK,Unfurnished,"Bhakrota, Jaipur",Jaipur
+15000,900,3 BHK,Unfurnished,Kedias The Kothi,Jaipur
+15000,1300,2 BHK,Unfurnished,"Karolan Ka Barh, Jaipur",Jaipur
+10000,2000,3 BHK,Unfurnished,"Meena Wala, Jaipur",Jaipur
+11000,900,2 BHK,Unfurnished,M M R R Valley,Jaipur
+6500,1500,2 BHK,Unfurnished,7 JHA 48,Jaipur
+14500,1500,1 BHK,Unfurnished,"Shiv Parwati Nagar, Jaipur",Jaipur
+25000,1647,5 BHK,Unfurnished,"Vaishali Nagar Extension, Jaipur",Jaipur
+15000,1500,3 BHK,Unfurnished,"102, Samiksha Vihaar, Sinwar Phatak, Jaipur",Jaipur
+100000,2400,2 BHK,Furnished,"Sirsi, Jaipur",Jaipur
+7500,1100,2 BHK,Unfurnished,"Grand Sikar Road, Jaipur",Jaipur
+50000,3150,4 BHK,Unfurnished,"Hanuman Vatika 1, Jaipur",Jaipur
+12000,990,2 BHK,Unfurnished,Ansal Sushant City 2,Jaipur
+15000,1260,2 BHK,Unfurnished,"Pratap Nagar, Jaipur",Jaipur
+12000,1800,4 BHK,Unfurnished,"Bagru Khurd, Jaipur",Jaipur
+17000,1200,3 BHK,Unfurnished,"Jhotwara, Jaipur",Jaipur
+15000,2000,1 BHK,Unfurnished,"Kalwar Road, Jaipur",Jaipur
+28000,2700,4 BHK,Unfurnished,"Kamla Nehru Nagar, Jaipur",Jaipur
+6000,150,1 BHK,Unfurnished,"Jagannath Puri I, Jaipur",Jaipur
+30000,111,3 BHK,Unfurnished,nirman nagar,Jaipur
+10000,900,2 BHK,Unfurnished,"Kalwar Road, Jaipur",Jaipur
+13000,1100,2 BHK,Unfurnished,"Bindayaka, Jaipur",Jaipur
+22000,2000,2 BHK,Unfurnished,"Shiv Parwati Nagar, Jaipur",Jaipur
+22000,1500,3 BHK,Unfurnished,"Ajmer Road, Jaipur",Jaipur
+10000,200,2 BHK,Unfurnished,"Gokulpura, Jaipur",Jaipur
+7000,900,2 BHK,Unfurnished,"Keshopura, Jaipur",Jaipur
+17000,1800,2 BHK,Unfurnished,"Shalimar Bagh Colony, Jaipur",Jaipur
+11000,1200,2 BHK,Unfurnished,Friends Shree Radha Govind Villa Extension,Jaipur
+15000,675,1 BHK,Unfurnished,"Kumbha Marg, Jaipur",Jaipur
+15000,2228,3 BHK,Unfurnished,Alankar colony,Jaipur
+45000,200,6 BHK,Furnished,Panipech,Jaipur
+13600,1200,3 BHK,Unfurnished,Prithviraj nagar sector B,Jaipur
+11000,1200,2 BHK,Unfurnished,"Jamnapuri, Jaipur",Jaipur
+8000,100,1 BHK,Unfurnished,"Jagannath Puri I, Jaipur",Jaipur
+18000,50,1 BHK,Furnished,Pratap Apartments,Jaipur
+15000,490,2 BHK,Unfurnished,"Adarsh Bazar, Tonk Phatak, Jaipur",Jaipur
+10000,750,2 BHK,Unfurnished,"Kedia Utsav Dharwad, Jaipur",Jaipur
+22000,1150,2 BHK,Furnished,"Brij Vihar, Jaipur",Jaipur
+14000,1250,2 BHK,Unfurnished,Kedia Keshvam Home Land,Jaipur
+10000,400,1 BHK,Unfurnished,"Uday Nagar A, Jaipur",Jaipur
+18000,1500,3 BHK,Unfurnished,Kedias The Kothi,Jaipur
+11999,1300,2 BHK,Unfurnished,"Hanumant Nagar, Jaipur",Jaipur
+27000,1450,3 BHK,Furnished,"Jagatpura, Jaipur",Jaipur
+15000,1250,2 BHK,Unfurnished,"Ashok Vihar Vistar, Jaipur",Jaipur
+3500,400,2 BHK,Unfurnished,RHB Dastkar Nagar,Jaipur
+80000,15750,1 BHK,Unfurnished,Post vidhyani,Jaipur
+10000,900,2 BHK,Unfurnished,"New Loha Mandi, Jaipur",Jaipur
+15000,1150,2 BHK,Unfurnished,Finetech Prim Woods,Jaipur
+25000,1200,2 BHK,Unfurnished,"Jaswant Nagar, Jaipur",Jaipur
+15000,750,2 BHK,Unfurnished,"Sunder Nagar, Jaipur",Jaipur
+18000,2000,2 BHK,Unfurnished,"Sector 4 Malviya Nagar, Jaipur",Jaipur
+75000,3510,3 BHK,Furnished,"Adinath Nagar, Jaipur",Jaipur
+35000,85,3 BHK,Furnished,"Jagatpura, Jaipur",Jaipur
+5500,950,1 BHK,Unfurnished,"Vatika, Jaipur",Jaipur
+10000,700,3 BHK,Unfurnished,Kedia Anandam,Jaipur
+200000,1800,7 BHK,Furnished,Vardhman Hanuman Nagar,Jaipur
+20000,1125,3 BHK,Unfurnished,Chordias Prime Ville Classic,Jaipur
+14999,1100,3 BHK,Unfurnished,"Ganesh Nagar, Radha Kunj, Jaipur",Jaipur
+25000,2000,3 BHK,Furnished,Gulmohar Gardens,Jaipur
+30000,1100,2 BHK,Furnished,"Krishna Nagar 2, Jaipur",Jaipur
+14500,195,3 BHK,Unfurnished,plot no.165,Jaipur
+20000,200,3 BHK,Unfurnished,"Sirsi, Jaipur",Jaipur
+15000,1000,2 BHK,Unfurnished,SARDA'S VRINDAVAN,Jaipur
+100000,2250,7 BHK,Furnished,"Officers Campus Extension, Jaipur",Jaipur
+20000,1800,2 BHK,Unfurnished,INDEPENDENT HOUSE at Kardhani Jaipu,Jaipur
+10000,1800,2 BHK,Unfurnished,"Meena Wala, Jaipur",Jaipur
+35000,120,3 BHK,Unfurnished,Mahima Spring Villa,Jaipur
+16000,120,1 BHK,Unfurnished,"Chainpura, Jaipur",Jaipur
+25000,850,3 BHK,Unfurnished,Space Villas By One Realty,Jaipur
+40000,3000,4 BHK,Unfurnished,"Pratap Nagar, Jaipur",Jaipur
+18000,1550,3 BHK,Unfurnished,Aangan The Villas,Jaipur
+4800000,5400,4 BHK,Furnished,"C Scheme, Jaipur",Jaipur
+16000,1440,4 BHK,Unfurnished,Siddha Aangan,Jaipur
+15000,1800,2 BHK,Unfurnished,Manglam Kanak Vrindavan,Jaipur
+"12,500",300,2 BHK,Unfurnished,sobhag,Ajmer
+"12,500",800,2 BHK,Unfurnished,"Civil Lines, Ajmer",Ajmer
+"19,000",1200,3 BHK,Unfurnished,"Gyan Vihar Colony, Ajmer",Ajmer
+"14,000",1920,1 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"15,000",148,2 BHK,Unfurnished,"3/195, B block",Ajmer
+"10,000",448,2 BHK,Unfurnished,"Roop nagar, Ajmer",Ajmer
+"15,000",1500,2 BHK,Unfurnished,"Topdara, Ajmer",Ajmer
+"17,000",1224,2 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"7,500",700,2 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"11,500",1291,2 BHK,Unfurnished,"Panchsheel Nagar, Ajmer",Ajmer
+"4,000",150,1 BHK,Unfurnished,"Kishangarh, Ajmer",Ajmer
+"16,500",1665,3 BHK,Unfurnished,"Gyan Vihar Colony, Ajmer",Ajmer
+"16,000",1200,2 BHK,Unfurnished,"Pushkar, Ajmer",Ajmer
+"12,000",800,2 BHK,Unfurnished,"Kotra, Ajmer",Ajmer
+"7,000",495,1 BHK,Unfurnished,Apeksha City Ajmer,Ajmer
+"20,000",120,2 BHK,Unfurnished,modi path,Ajmer
+"12,000",200,2 BHK,Furnished,Issai mohalla,Ajmer
+"11,000",1800,3 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"10,000",1800,2 BHK,Unfurnished,"Chandra Vardai Nagar, Ajmer",Ajmer
+"18,000",1300,3 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"16,000",1656,2 BHK,Unfurnished,"Gyan Vihar Colony, Ajmer",Ajmer
+"11,500",1291,2 BHK,Unfurnished,"Panchsheel Colony, Ajmer",Ajmer
+"17,000",1000,2 BHK,Furnished,shri ram vihar,Ajmer
+"12,000",2000,2 BHK,Unfurnished,CRS Astitva,Ajmer
+"14,000",1250,2 BHK,Furnished,"BK Kaul Nagar, Ajmer",Ajmer
+"15,000",1000,2 BHK,Unfurnished,"Anand Nagar, Ajmer",Ajmer
+"20,000",2000,3 BHK,Furnished,"Panchsheel Nagar, Ajmer",Ajmer
+"20,000",1400,2 BHK,Furnished,"Kundan Nagar, Ajmer",Ajmer
+"12,000",950,3 BHK,Unfurnished,"Panchsheel Colony, Ajmer",Ajmer
+"15,000",1200,3 BHK,Unfurnished,"Hathi Bhata, Ajmer",Ajmer
+"12,000",1000,2 BHK,Unfurnished,"shubham bairwa, Ajmer",Ajmer
+"12,000",1000,2 BHK,Unfurnished,"Gyan Vihar Colony, Ajmer",Ajmer
+"10,000",1000,2 BHK,Furnished,"Kishangarh, Ajmer",Ajmer
+"20,000",1250,2 BHK,Unfurnished,"Pragati Nagar, Ajmer",Ajmer
+"11,000",2000,2 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"20,000",1250,3 BHK,Furnished,"Haribhau Upadhyay Nagar, Ajmer",Ajmer
+"15,000",1649,1 BHK,Unfurnished,"Gyan Vihar Colony, Ajmer",Ajmer
+"5,500",350,2 BHK,Unfurnished,"Panchsheel Nagar, Ajmer",Ajmer
+"5,500",400,2 BHK,Unfurnished,"Panchsheel Nagar, Ajmer",Ajmer
+"14,000",1900,3 BHK,Unfurnished,"Kotra, Ajmer",Ajmer
+"10,000",448,2 BHK,Unfurnished,"Roop nagar, Ajmer",Ajmer
+"12,500",800,2 BHK,Unfurnished,"Civil Lines, Ajmer",Ajmer
+"17,000",1000,2 BHK,Furnished,shri ram vihar,Ajmer
+"15,000",148,2 BHK,Unfurnished,"3/195, B block",Ajmer
+"12,500",300,2 BHK,Unfurnished,sobhag,Ajmer
+"19,000",1200,3 BHK,Unfurnished,"Gyan Vihar Colony, Ajmer",Ajmer
+"14,000",1920,1 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"7,500",700,2 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"15,000",1500,2 BHK,Unfurnished,"Topdara, Ajmer",Ajmer
+"11,500",1291,2 BHK,Unfurnished,"Panchsheel Nagar, Ajmer",Ajmer
+"4,000",150,1 BHK,Unfurnished,"Kishangarh, Ajmer",Ajmer
+"11,500",1291,2 BHK,Unfurnished,"Panchsheel Colony, Ajmer",Ajmer
+"12,000",2000,2 BHK,Unfurnished,CRS Astitva,Ajmer
+"14,000",1250,2 BHK,Furnished,"BK Kaul Nagar, Ajmer",Ajmer
+"16,500",1665,3 BHK,Unfurnished,"Gyan Vihar Colony, Ajmer",Ajmer
+"16,000",1200,2 BHK,Unfurnished,"Pushkar, Ajmer",Ajmer
+"12,000",800,2 BHK,Unfurnished,"Kotra, Ajmer",Ajmer
+"7,000",495,1 BHK,Unfurnished,Apeksha City Ajmer,Ajmer
+"20,000",120,2 BHK,Unfurnished,modi path,Ajmer
+"12,000",200,2 BHK,Furnished,Issai mohalla,Ajmer
+"11,000",1800,3 BHK,Unfurnished,"Vaishali Nagar, Ajmer",Ajmer
+"7,000",250,2 BHK,Unfurnished,Unique Tarang,Ajmer
+"6,000",1500,1 BHK,Furnished,2nd home ajmer,Ajmer
+"6,000",300,1 BHK,Furnished,home ajmer,Ajmer
+"3,800",350,1 BHK,Unfurnished,Aravali Homes,Ajmer
+"5,000",350,1 BHK,Unfurnished,Aravali Homes,Ajmer
+"12,000",1200,3 BHK,Unfurnished,Makadwari road,Ajmer
+"17,000",1340,2 BHK,Furnished,Samriddhi Dynasty,Ajmer
+"17,000",1600,3 BHK,Unfurnished,Eligance,Ajmer
+"12,490",1200,2 BHK,Unfurnished,ARG Rosewood Apartments,Ajmer
+"15,000",1800,3 BHK,Unfurnished,N 175 AMBEDKAR NAGAR,Alwar
+"17,000",1505,3 BHK,Unfurnished,Trehan Residences,Alwar
+"3,500",350,1 BHK,Unfurnished,"Budhvihar, Alwar",Alwar
+"12,000",550,3 BHK,Unfurnished,"Telco Circle, Alwar",Alwar
+"6,000",10800,2 BHK,Unfurnished,"subhash chouk, Alwar",Alwar
+"10,000",1500,1 BHK,Unfurnished,Scheme 2,Alwar
+"7,000",600,2 BHK,Furnished,"Aravali Vihar, Alwar",Alwar
+"10,500",400,3 BHK,Unfurnished,"Lajpat Nagar, Alwar",Alwar
+"7,000",990,2 BHK,Unfurnished,"Jyoti Nagar, Alwar",Alwar
+"6,500",800,2 BHK,Unfurnished,"Hasan Khan Mewati Nagar, Alwar",Alwar
+"9,500",1500,2 BHK,Unfurnished,"Shivaji Park, Alwar",Alwar
+"10,000",800,2 BHK,Furnished,Trehan Apna Ghar Shalimar,Alwar
+"11,000",800,2 BHK,Furnished,Trehan Apna Ghar Shalimar,Alwar
+"6,000",110,2 BHK,Unfurnished,"police line road alwar near ashoka talkies, Alwar",Alwar
+"15,000",2500,2 BHK,Unfurnished,Ansal Town,Alwar
+"20,000",1000,2 BHK,Unfurnished,Private Floor,Alwar
+"8,000",650,2 BHK,Unfurnished,"Manglam residency,Itarana circle",Alwar
+"12,000",400,3 BHK,Unfurnished,"Hasan Khan Mewati Nagar, Alwar",Alwar
+"10,000",1250,1 BHK,Unfurnished,576,Alwar
+"7,000",700,1 BHK,Furnished,"Lajpat Nagar, Alwar",Alwar
+"11,000",550,2 BHK,Unfurnished,"Lajpat Nagar, Alwar",Alwar
+"10,000",900,2 BHK,Unfurnished,"Surya Nagar, Alwar",Alwar
+"10,000",1200,2 BHK,Furnished,"Gandhi Nagar, Alwar",Alwar
+"5,000",950,1 BHK,Unfurnished,"Dhadholi, Alwar",Alwar
+"20,000",1500,3 BHK,Furnished,Lords City Home,Alwar
+"11,000",1200,1 BHK,Furnished,"Kala Kuan, Alwar",Alwar
+"10,000",900,2 BHK,Furnished,"Saras Dairy Colony, Alwar",Alwar
+"6,000",677,2 BHK,Unfurnished,Upvan ashadeep,Alwar
+"6,000",550,1 BHK,Unfurnished,apna ghar shalimar extension block,Alwar
+"8,000",600,2 BHK,Unfurnished,Manglam City,Alwar
+"12,000",1800,3 BHK,Unfurnished,"Ambedkar Nagar, Alwar",Alwar
+"7,500",4050,2 BHK,Unfurnished,"Surya Nagar, Alwar",Alwar
+"10,000",1250,2 BHK,Unfurnished,Veera Gardens,Alwar
+"7,300",400,2 BHK,Unfurnished,"Hasan Khan Mewati Nagar, Alwar",Alwar
+"8,500",550,1 BHK,Furnished,Trehan Apna Ghar Shalimar,Alwar
+"7,000",2228,1 BHK,Unfurnished,Soumya Vihar,Alwar
+"5,000",650,1 BHK,Unfurnished,On Request,Alwar
+"10,000",1200,2 BHK,Furnished,"Surya Nagar, Alwar",Alwar
+"10,000",1100,2 BHK,Furnished,"Surya Nagar, Alwar",Alwar
+"5,500",720,2 BHK,Unfurnished,Jain mandir k pass,Alwar
+"8,200",2100,3 BHK,Unfurnished,kapoor apartments,Alwar
+"9,000",700,1 BHK,Furnished,Trehan Apna Ghar Shalimar,Alwar
+"14,000",1000,2 BHK,Unfurnished,"Moti Nagar, Alwar",Alwar
+"18,000",1200,3 BHK,Unfurnished,"Sanjay Colony, Alwar",Alwar
+"3,500",1800,2 BHK,Unfurnished,"Kathoomar, Alwar",Alwar
+"3,500",1800,2 BHK,Unfurnished,"Kathoomar, Alwar",Alwar
+"8,000",600,2 BHK,Unfurnished,B210,Alwar
+"4,500",150,1 BHK,Furnished,"housing board, Alwar",Alwar
+"8,000",600,2 BHK,Unfurnished,"Manu Marg, Alwar",Alwar
+"8,000",1850,1 BHK,Unfurnished,Lilawati Market,Alwar
+"10,000",1500,2 BHK,Furnished,Laxmibai,Alwar
+"10,000",2500,2 BHK,Furnished,Gandhi Nagar Scheme 8,Alwar
+"5,200",560,1 BHK,Unfurnished,"Aravali Vihar, Alwar",Alwar
+"5,800",280,1 BHK,Unfurnished,"Kala Kuan, Alwar",Alwar
+"12,000",750,2 BHK,Unfurnished,ravilamba,Alwar
+"10,000",890,2 BHK,Unfurnished,Trehan Apna Ghar Shalimar,Alwar
+"11,000",450,1 BHK,Furnished,"Moti Doongri, Alwar",Alwar
+"21,000",730,1 BHK,Furnished,Purple Panache,Alwar
+"8,000",2025,3 BHK,Unfurnished,"Scheme No 04, Alwar",Alwar
+"3,500",650,2 BHK,Unfurnished,BDI Green Park Township,Alwar
+"10,000",1250,3 BHK,Unfurnished,"Malviya Nagar, Alwar",Alwar
+"11,000",1250,2 BHK,Unfurnished,"Hasan Khan Mewati Nagar, Alwar",Alwar
+"10,000",1500,3 BHK,Furnished,"Bhagwan Nagar, Alwar",Alwar
+"6,500",268,1 BHK,Unfurnished,Trehan Apna Ghar Shalimar,Alwar
+"7,000",1800,2 BHK,Unfurnished,surya nagar alwar,Alwar
+"3,500",900,1 BHK,Unfurnished,"Vijay Nagar, Alwar",Alwar
+"10,000",550,2 BHK,Furnished,Manglam City,Alwar
+"8,000",200,2 BHK,Unfurnished,Defence Colony,Alwar
+"8,500",1000,3 BHK,Unfurnished,"Ambedkar Nagar, Alwar",Alwar
+"7,000",450,1 BHK,Unfurnished,"Surya Nagar, Alwar",Alwar
+"3,500",4500,2 BHK,Unfurnished,BDI Green Park Township,Alwar
+"8,000",1250,1 BHK,Furnished,"Patel Nagar, Bhilwara",Bhilwara
+"18,000",1000,2 BHK,Furnished,"Gandhi Nagar, Bhilwara",Bhilwara
+"10,000",2100,1 BHK,Unfurnished,diwan,Bhilwara
+"11,000",1500,2 BHK,Unfurnished,"Vakil Colony, Kashi Puri, Bhilwara",Bhilwara
+"13,500",1702,3 BHK,Unfurnished,SR Shree Balaji Apartment,Bhilwara
+"9,000",700,2 BHK,Unfurnished,Ansal API Sushant City,Bhilwara
+"18,000",1400,2 BHK,Unfurnished,raghuvansh vihar,Bhilwara
+"11,000",1000,2 BHK,Unfurnished,"Bapu Nagar, Bhilwara",Bhilwara
+"5,500",1500,2 BHK,Unfurnished,"Shastri Nagar, Bhilwara",Bhilwara
+"13,000",1175,2 BHK,Unfurnished,"R C Vyas Colony, Bhilwara",Bhilwara
+"16,000",2000,2 BHK,Furnished,virndavan kunj,Bhilwara
+"7,000",650,1 BHK,Unfurnished,"Azad Nagar, Bhilwara",Bhilwara
+"6,500",900,2 BHK,Unfurnished,Terapanth Nagar,Bhilwara
+"11,000",1000,2 BHK,Unfurnished,"Basant Vihar Colony, Bhilwara",Bhilwara
+"15,000",1100,2 BHK,Unfurnished,"Vijay Singh Pathik Nagar, Bhilwara",Bhilwara
+"4,500",500,1 BHK,Unfurnished,"Shastri Nagar, Bhilwara",Bhilwara
+"10,000",1000,1 BHK,Furnished,Kanchipuram,Bhilwara
+"11,500",1100,3 BHK,Unfurnished,sector 5,Bhilwara
+"13,500",1500,3 BHK,Unfurnished,"RK Colony, Bhilwara",Bhilwara
+"20,000",800,2 BHK,Furnished,Sharda Dream City,Bhilwara
+"9,000",1400,2 BHK,Unfurnished,"Shastri Nagar, Bhilwara",Bhilwara
+"7,000",1200,1 BHK,Furnished,Shree Nath Bhavan,Bhilwara
+"7,500",1000,3 BHK,Unfurnished,Sharda Evergreen Park,Bhilwara
+"9,000",2400,2 BHK,Furnished,"Patel Nagar, Bhilwara",Bhilwara
+"22,000",1812,4 BHK,Furnished,"Shastri Nagar, Bhilwara",Bhilwara
+"16,000",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"16,500",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"14,500",625,1 BHK,Furnished,Nimai Greens,Bhiwadi
+"16,000",1508,3 BHK,Unfurnished,Trehan Heights,Bhiwadi
+"10,200",820,2 BHK,Unfurnished,Krish Aura,Bhiwadi
+"28,500",1665,3 BHK,Furnished,BDI Sunshine City,Bhiwadi
+"21,500",1200,2 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"22,500",1200,2 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"13,500",1415,3 BHK,Unfurnished,Terra Elegance,Bhiwadi
+"12,000",1250,2 BHK,Unfurnished,Avalon Gardens,Bhiwadi
+"16,600",1000,2 BHK,Furnished,The Essentia,Bhiwadi
+"15,000",1600,3 BHK,Unfurnished,Avalon Gardens,Bhiwadi
+"15,000",1200,2 BHK,Unfurnished,Ashiana Aangan,Bhiwadi
+"14,200",1300,3 BHK,Unfurnished,The Essentia,Bhiwadi
+"14,000",1300,3 BHK,Unfurnished,The Essentia,Bhiwadi
+"8,500",900,2 BHK,Unfurnished,Omaxe Green Meadow City,Bhiwadi
+"14,500",1415,3 BHK,Unfurnished,Terra Elegance,Bhiwadi
+"8,500",900,2 BHK,Unfurnished,Omaxe Green Meadow City,Bhiwadi
+"8,650",924,2 BHK,Unfurnished,Omaxe Green Meadow City,Bhiwadi
+"12,000",1130,2 BHK,Unfurnished,Ashiana Utsav Care Homes,Bhiwadi
+"16,000",1445,2 BHK,Unfurnished,MVL Coral,Bhiwadi
+"8,500",630,1 BHK,Unfurnished,Terra Castle,Bhiwadi
+"6,000",1500,3 BHK,Unfurnished,Piyush City,Bhiwadi
+"13,500",1014,2 BHK,Unfurnished,Terra Castle,Bhiwadi
+"13,500",1450,3 BHK,Unfurnished,Terra Heritage,Bhiwadi
+"10,000",845,2 BHK,Unfurnished,Ashiana Surbhi,Bhiwadi
+"12,000",675,1 BHK,Furnished,Nimai Greens,Bhiwadi
+"15,000",1300,3 BHK,Unfurnished,Terra Castle,Bhiwadi
+"9,500",1275,2 BHK,Unfurnished,"Alwar Bypass Road, Bhiwadi",Bhiwadi
+"18,000",1100,2 BHK,Unfurnished,Ashiana Nirmay,Bhiwadi
+"16,000",1450,3 BHK,Unfurnished,Terra Heritage,Bhiwadi
+"9,500",1350,3 BHK,Unfurnished,Trehan Delight Residences,Bhiwadi
+"7,000",1200,2 BHK,Unfurnished,Piyush City,Bhiwadi
+"7,200",850,2 BHK,Unfurnished,Avalon Residency Phase 1,Bhiwadi
+"14,500",1415,3 BHK,Unfurnished,Terra Elegance,Bhiwadi
+"8,000",750,2 BHK,Unfurnished,Trehan Heights,Bhiwadi
+"12,000",1300,3 BHK,Unfurnished,Terra Castle,Bhiwadi
+"15,000",1275,2 BHK,Unfurnished,HFL Presidency Estate,Bhiwadi
+"10,000",975,3 BHK,Furnished,Krish City Phase 2,Bhiwadi
+"12,000",1100,3 BHK,Unfurnished,Ashiana Surbhi,Bhiwadi
+"16,000",1410,3 BHK,Unfurnished,Trehan Residency - Vivanta,Bhiwadi
+"17,500",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"14,500",1135,2 BHK,Unfurnished,Ashiana Tarang,Bhiwadi
+"10,000",625,1 BHK,Furnished,Nimai Greens,Bhiwadi
+"18,000",1384,3 BHK,Unfurnished,Ashiana Tarang,Bhiwadi
+"19,000",1480,3 BHK,Unfurnished,Ashiana Utsav,Bhiwadi
+"14,000",1135,2 BHK,Unfurnished,Ashiana Tarang,Bhiwadi
+"25,000",1640,3 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"17,000",1384,3 BHK,Unfurnished,Ashiana Tarang,Bhiwadi
+"17,000",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"20,000",1430,3 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"60,000",2495,3 BHK,Unfurnished,Ashiana Advik,Bhiwadi
+"22,000",896,1 BHK,Unfurnished,Ashiana Advik,Bhiwadi
+"21,000",1430,3 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"24,000",1430,3 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"18,500",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"18,000",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"14,000",1135,2 BHK,Unfurnished,Ashiana Tarang,Bhiwadi
+"20,000",965,2 BHK,Furnished,Ashiana Gardens,Bhiwadi
+"12,000",1250,2 BHK,Unfurnished,Avalon Gardens,Bhiwadi
+"10,000",1150,2 BHK,Unfurnished,Terra Heritage,Bhiwadi
+"19,000",1620,3 BHK,Unfurnished,Nimai Greens,Bhiwadi
+"22,000",1430,3 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"17,000",1150,2 BHK,Furnished,Terra Heritage,Bhiwadi
+"10,500",1150,2 BHK,Unfurnished,Terra Heritage,Bhiwadi
+"30,000",1450,3 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"12,500",1025,2 BHK,Unfurnished,Krish Aura,Bhiwadi
+"15,000",1415,3 BHK,Unfurnished,Terra Elegance,Bhiwadi
+"18,000",1140,2 BHK,Furnished,Ashiana Utsav,Bhiwadi
+"20,000",1140,2 BHK,Furnished,Ashiana Utsav,Bhiwadi
+"15,500",1370,2 BHK,Unfurnished,Nimai Greens,Bhiwadi
+"14,000",1415,3 BHK,Unfurnished,Terra Elegance,Bhiwadi
+"12,000",1150,2 BHK,Unfurnished,Terra Elegance,Bhiwadi
+"20,500",1200,2 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"22,000",1450,3 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"29,500",1574,3 BHK,Unfurnished,Ashiana Tarang,Bhiwadi
+"24,000",1535,3 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"21,000",1430,3 BHK,Furnished,Ashiana Town,Bhiwadi
+"17,500",1260,2 BHK,Furnished,BDI Sunshine City,Bhiwadi
+"20,500",1320,3 BHK,Furnished,Ashiana Town,Bhiwadi
+"20,000",1450,3 BHK,Unfurnished,Ashiana Aangan,Bhiwadi
+"19,000",1260,2 BHK,Furnished,BDI Sunshine City,Bhiwadi
+"17,500",1080,3 BHK,Unfurnished,Ashiana Tarang,Bhiwadi
+"21,500",1165,2 BHK,Furnished,Ashiana Town,Bhiwadi
+"30,000",1450,3 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"23,500",1150,2 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"17,500",1490,3 BHK,Unfurnished,BDI Sunshine City,Bhiwadi
+"15,500",1165,2 BHK,Furnished,Ashiana Town,Bhiwadi
+"21,500",1260,2 BHK,Furnished,BDI Sunshine City,Bhiwadi
+"20,000",1150,2 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"25,500",1450,3 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"21,500",1150,2 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"22,000",1150,2 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"20,500",1260,2 BHK,Furnished,BDI Sunshine City,Bhiwadi
+"10,500",800,2 BHK,Unfurnished,Krish Aura,Bhiwadi
+"20,000",1100,2 BHK,Furnished,Ashadeep Ananta Jagat,Bhiwadi
+"12,000",845,1 BHK,Unfurnished,Ashiana Utsav,Bhiwadi
+"10,000",930,2 BHK,Unfurnished,Ashiana Gardens,Bhiwadi
+"12,000",845,1 BHK,Unfurnished,Ashiana Utsav,Bhiwadi
+"14,000",1140,2 BHK,Unfurnished,Ashiana Utsav,Bhiwadi
+"8,500",650,1 BHK,Furnished,Avalon Residency Phase 2,Bhiwadi
+"18,000",1234,2 BHK,Furnished,Nimai Greens,Bhiwadi
+"11,500",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"17,000",1200,2 BHK,Furnished,Ashiana Aangan,Bhiwadi
+"22,000",1660,3 BHK,Furnished,Krish Vatika,Bhiwadi
+"13,500",1350,3 BHK,Unfurnished,Ashiana Gardens,Bhiwadi
+"15,000",845,1 BHK,Furnished,Ashiana Utsav,Bhiwadi
+"10,000",1165,2 BHK,Unfurnished,BDI Sunshine City,Bhiwadi
+"13,500",1210,2 BHK,Unfurnished,Ashiana Aangan,Bhiwadi
+"10,000",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"12,000",1025,2 BHK,Unfurnished,Krish Aura,Bhiwadi
+"15,000",1200,2 BHK,Unfurnished,Ashiana Aangan,Bhiwadi
+"15,000",1076,2 BHK,Unfurnished,Ashadeep Ananta Jagat,Bhiwadi
+"15,000",1235,2 BHK,Furnished,Cosmos Greens,Bhiwadi
+"15,000",1165,2 BHK,Unfurnished,Ashiana Town,Bhiwadi
+"16,000",1925,3 BHK,Unfurnished,MVL Coral,Bhiwadi
+"14,000",1300,3 BHK,Unfurnished,The Essentia Olive Homes,Bhiwadi
+"12,000",1025,2 BHK,Unfurnished,Krish Aura,Bhiwadi
+"7,000",500,1 BHK,Furnished,V P Spaces Grandeur,Bhiwadi
+"15,000",1445,2 BHK,Furnished,MVL Coral,Bhiwadi
+"3,800",1800,1 BHK,Unfurnished,"aravali vihar rhb sector 3, Bhiwadi",Bhiwadi
+"7,500",500,1 BHK,Furnished,V P Sutajio Grandeur,Bhiwadi
+"9,000",1100,2 BHK,Unfurnished,Ashiana Gardens,Bhiwadi
+"6,500",800,2 BHK,Furnished,Krish City 2,Bhiwadi
+"10,000",1037,2 BHK,Unfurnished,R Tech Capital Greens,Bhiwadi
+"20,000",650,2 BHK,Unfurnished,Shivamsundaram,Bikaner
+"7,000",100,1 BHK,Furnished,Shree Bharav Vihar,Bikaner
+"17,500",2200,3 BHK,Unfurnished,Mohan Nagar Township,Bikaner
+"15,000",2400,3 BHK,Unfurnished,vijay vihar colony,Bikaner
+"5,999",2500,1 BHK,Unfurnished,sarvodaya basti,Bikaner
+"6,000",1245,1 BHK,Unfurnished,Sudarshana Nagar,Bikaner
+"28,000",1800,3 BHK,Unfurnished,shree ram nagar bikaner,Bikaner
+"8,000",500,2 BHK,Unfurnished,"Tilak Nagar, Bikaner",Bikaner
+"25,000",1550,3 BHK,Unfurnished,Vishwas Krishna,Bikaner
+"75,000",750,1 BHK,Unfurnished,"Rani Bazar, Bikaner",Bikaner
+"8,500",450,2 BHK,Unfurnished,"Murlidhar Vyas Colony, Bikaner",Bikaner
+"20,000",2200,3 BHK,Unfurnished,"Jai Narayan Vyas Colony, Bikaner",Bikaner
+"7,000",1000,2 BHK,Unfurnished,"Brindavan Enclave, Bikaner",Bikaner
+"3,500",3500,1 BHK,Unfurnished,"Pugal Phanta, Bikaner",Bikaner
+"6,000",1000,1 BHK,Unfurnished,"Mukta Prasad Nagar, Bikaner",Bikaner
+"20,000",2400,3 BHK,Unfurnished,"Jnv Colony, Bikaner",Bikaner
+"7,000",1750,3 BHK,Unfurnished,"Udasar, Bikaner",Bikaner
+"8,500",1155,2 BHK,Furnished,"Vallabh Garden, Bikaner",Bikaner
+"4,500",1855,1 BHK,Furnished,"Vallabh Garden, Bikaner",Bikaner
+"14,000",2000,2 BHK,Unfurnished,"Jai Narayan Vyas Colony, Bikaner",Bikaner
+"20,000",1375,3 BHK,Unfurnished,Manglam Greens,Bikaner
+"35,000",1800,3 BHK,Unfurnished,jaipur road bikaner,Bikaner
+"20,000",1500,3 BHK,Unfurnished,"Tilak Nagar, Bikaner",Bikaner
+"3,500",145,1 BHK,Unfurnished,Shriram Apartment,Bikaner
+"7,500",1200,2 BHK,Unfurnished,"Karni Nagar, Bikaner",Bikaner
+"12,000",1250,2 BHK,Unfurnished,"Samta Nagar, Bikaner",Bikaner
+"13,000",1300,3 BHK,Unfurnished,"Tilak Nagar, Bikaner",Bikaner
+"20,000",1000,2 BHK,Furnished,"Karni Nagar, Bikaner",Bikaner
+"35,000",1677,3 BHK,Furnished,Bikaner Imperial Paradise,Bikaner
+"7,000",1200,2 BHK,Unfurnished,"Gangashahar, Bikaner",Bikaner
+"4,000",600,1 BHK,Furnished,"Hanuman Hatha, Bikaner",Bikaner
+"3,500",150,1 BHK,Unfurnished,Shriram Apartment,Bikaner
+"9,500",1225,2 BHK,Unfurnished,kay arr corner,Bikaner
+"3,500",3500,1 BHK,Unfurnished,"Pugal Phanta, Bikaner",Bikaner
+"3,500",145,1 BHK,Unfurnished,Shriram Apartment,Bikaner
+"7,000",100,1 BHK,Furnished,Shree Bharav Vihar,Bikaner
+"20,000",650,2 BHK,Unfurnished,Shivamsundaram,Bikaner
+"6,000",1245,1 BHK,Unfurnished,Sudarshana Nagar,Bikaner
+"17,500",2200,3 BHK,Unfurnished,Mohan Nagar Township,Bikaner
+"15,000",2400,3 BHK,Unfurnished,vijay vihar colony,Bikaner
+"8,000",500,2 BHK,Unfurnished,"Tilak Nagar, Bikaner",Bikaner
+"5,999",2500,1 BHK,Unfurnished,sarvodaya basti,Bikaner
+"6,000",1000,1 BHK,Unfurnished,"Mukta Prasad Nagar, Bikaner",Bikaner
+"25,000",1550,3 BHK,Unfurnished,Vishwas Krishna,Bikaner
+"75,000",750,1 BHK,Unfurnished,"Rani Bazar, Bikaner",Bikaner
+"20,000",2400,3 BHK,Unfurnished,"Jnv Colony, Bikaner",Bikaner
+"8,500",450,2 BHK,Unfurnished,"Murlidhar Vyas Colony, Bikaner",Bikaner
+"7,000",1750,3 BHK,Unfurnished,"Udasar, Bikaner",Bikaner
+"20,000",2200,3 BHK,Unfurnished,"Jai Narayan Vyas Colony, Bikaner",Bikaner
+"8,500",1155,2 BHK,Furnished,"Vallabh Garden, Bikaner",Bikaner
+"4,500",1855,1 BHK,Furnished,"Vallabh Garden, Bikaner",Bikaner
+"14,000",2000,2 BHK,Unfurnished,"Jai Narayan Vyas Colony, Bikaner",Bikaner
+"20,000",1375,3 BHK,Unfurnished,Manglam Greens,Bikaner
+"35,000",1800,3 BHK,Unfurnished,jaipur road bikaner,Bikaner
+"20,000",1500,3 BHK,Unfurnished,"Tilak Nagar, Bikaner",Bikaner
+"7,500",1200,2 BHK,Unfurnished,"Karni Nagar, Bikaner",Bikaner
+"7,000",1000,2 BHK,Unfurnished,"Brindavan Enclave, Bikaner",Bikaner
+"4,000",400,1 BHK,Unfurnished,"Senthi, Chittorgarh",Chittorgarh
+"7,500",450,1 BHK,Unfurnished,"Railyway colony, Chittorgarh",Chittorgarh
+"14,000",1000,2 BHK,Unfurnished,"Railyway colony, Chittorgarh",Chittorgarh
+"5,000",210,1 BHK,Unfurnished,"Anand Vihar Colony, Chittorgarh",Chittorgarh
+"12,000",1200,2 BHK,Unfurnished,"Senthi, Chittorgarh",Chittorgarh
+"12,000",1200,2 BHK,Unfurnished,"nirja, Chittorgarh",Chittorgarh
+"5,500",210,1 BHK,Furnished,"Anand Vihar Colony, Chittorgarh",Chittorgarh
+"12,000",1000,1 BHK,Unfurnished,B road,Jodhpur
+"14,000",130,2 BHK,Unfurnished,gayatri nagar,Jodhpur
+"15,000",600,2 BHK,Unfurnished,"Road No 2, Shakti Nagar, Paota C Road",Jodhpur
+"9,000",1000,2 BHK,Unfurnished,"Mandore, Jodhpur",Jodhpur
+"18,500",1200,2 BHK,Furnished,"ruprajat township, Jodhpur",Jodhpur
+"25,000",2000,3 BHK,Furnished,"Hari Nagar, Jodhpur",Jodhpur
+"8,000",1400,1 BHK,Furnished,chopsani housing bord socoty,Jodhpur
+"16,500",2100,2 BHK,Furnished,"Sector 17 E Chopasni Housing Board, Jodhpur",Jodhpur
+"6,000",2545,1 BHK,Unfurnished,"Aiims Road, Jodhpur",Jodhpur
+"19,000",2000,2 BHK,Unfurnished,sir,Jodhpur
+"19,000",1300,2 BHK,Unfurnished,sir pratap colony,Jodhpur
+"7,000",1150,1 BHK,Unfurnished,Aarti Nagar,Jodhpur
+"20,000",1000,3 BHK,Unfurnished,Pachar Blue City Mall,Jodhpur
+"7,500",800,2 BHK,Unfurnished,"Pratap Nagar, Jodhpur",Jodhpur
+"9,000",600,1 BHK,Unfurnished,"Sector 16 Chopasni Housing Board, Jodhpur",Jodhpur
+"10,000",2000,1 BHK,Unfurnished,nilkanth nimba nimbdi,Jodhpur
+"6,000",1250,3 BHK,Unfurnished,"Banar, Jodhpur",Jodhpur
+"7,500",2000,1 BHK,Unfurnished,Indiabulls Mega Mall,Jodhpur
+"10,000",560,1 BHK,Unfurnished,"Sector 16 Chopasni Housing Board, Jodhpur",Jodhpur
+"15,000",1400,3 BHK,Unfurnished,G-21,Jodhpur
+"17,000",4500,3 BHK,Unfurnished,"Jwala Vihar, Jodhpur",Jodhpur
+"18,000",2400,2 BHK,Unfurnished,"Pal Road, Jodhpur",Jodhpur
+"16,000",900,2 BHK,Furnished,Arihant Anchal,Jodhpur
+"9,000",1000,2 BHK,Unfurnished,"2/380 Kudi bhagtasani housing board jodhpur, Jodhpur",Jodhpur
+"10,000",450,1 BHK,Furnished,"Chopasni, Jodhpur",Jodhpur
+"10,000",450,2 BHK,Unfurnished,"Pali Road, Jodhpur",Jodhpur
+"21,000",1200,2 BHK,Unfurnished,"Chopasni Housing Board, Jodhpur",Jodhpur
+"25,000",1600,3 BHK,Unfurnished,Ashiana amarbagh,Jodhpur
+"21,000",1800,2 BHK,Furnished,"Pal Road, Jodhpur",Jodhpur
+"10,000",1200,2 BHK,Unfurnished,"Sector 11 Chopasni Housing Board , Jodhpur",Jodhpur
+"20,000",3500,2 BHK,Furnished,"Pal Road, Jodhpur",Jodhpur
+"15,000",3500,3 BHK,Furnished,mangaldeep anclav,Jodhpur
+"25,000",1800,3 BHK,Furnished,"Aiims Road, Jodhpur",Jodhpur
+"14,000",1000,3 BHK,Unfurnished,"Chopasni Housing Board, Jodhpur",Jodhpur
+"10,000",2500,3 BHK,Unfurnished,"dps circel, Jodhpur",Jodhpur
+"12,000",1200,3 BHK,Unfurnished,Gautam Nagar,Jodhpur
+"10,000",400,2 BHK,Unfurnished,"Pal Road, Jodhpur",Jodhpur
+"15,000",792,2 BHK,Unfurnished,"Sardarpura, Jodhpur",Jodhpur
+"10,000",1500,3 BHK,Unfurnished,"Nandri, Jodhpur",Jodhpur
+"50,000",1350,3 BHK,Furnished,Kudi Bhagtasni Housing Board,Jodhpur
+"25,000",1200,2 BHK,Furnished,"Vardhman Nagar, Jodhpur",Jodhpur
+"15,000",1000,3 BHK,Unfurnished,independent house,Jodhpur
+"16,000",2700,2 BHK,Unfurnished,"Pal Road, Jodhpur",Jodhpur
+"30,000",2000,3 BHK,Furnished,"Air Force Area, Jodhpur",Jodhpur
+"14,000",800,3 BHK,Furnished,"Pal Gaon, Jodhpur",Jodhpur
+"30,000",2400,3 BHK,Furnished,"Mahaveer Nagar, Jodhpur",Jodhpur
+"10,000",1500,2 BHK,Unfurnished,"Bhadu Market, Jodhpur",Jodhpur
+"25,000",1700,3 BHK,Unfurnished,Subham The Fort,Jodhpur
+"24,000",1200,3 BHK,Furnished,"Aiims Road, Jodhpur",Jodhpur
+"17,000",2000,3 BHK,Unfurnished,"Motiba Nagar, Jodhpur",Jodhpur
+"21,000",1271,3 BHK,Unfurnished,"Pal-Sangriya Link Road, Jodhpur",Jodhpur
+"16,000",1100,2 BHK,Furnished,"Pal Balaji, Jodhpur",Jodhpur
+"15,000",2019,3 BHK,Unfurnished,Shree Balaji Nagar Rukdi pyau,Jodhpur
+"15,000",4100,3 BHK,Unfurnished,"Near Bombay Motors circles, Bachh raj ji ka bagh., Jodhpur",Jodhpur
+"35,000",1200,3 BHK,Unfurnished,Sardapura Society,Jodhpur
+"13,000",1200,1 BHK,Unfurnished,amrit kesari vihar,Jodhpur
+"13,500",1800,3 BHK,Unfurnished,"Vivek Vihar Yojana, Jodhpur",Jodhpur
+"15,000",900,3 BHK,Unfurnished,Aditya Dwarkadish City,Jodhpur
+"8,500",500,1 BHK,Unfurnished,"Mandore, Jodhpur",Jodhpur
+"9,000",1100,2 BHK,Unfurnished,Dream Saarthi Sarovar,Jodhpur
+"15,000",1800,2 BHK,Unfurnished,"Mandore, Jodhpur",Jodhpur
+"9,500",1300,1 BHK,Unfurnished,"Mandore, Jodhpur",Jodhpur
+"21,000",700,3 BHK,Unfurnished,"Ajit Colony, Jodhpur",Jodhpur
+"21,000",560,3 BHK,Furnished,Pachar Blue City Mall,Jodhpur
+"25,500",3500,3 BHK,Furnished,"Pal Road, Jodhpur",Jodhpur
+"18,000",1000,2 BHK,Unfurnished,pal road gulab nagar,Jodhpur
+"20,000",2400,3 BHK,Unfurnished,shyam nagar,Jodhpur
+"22,000",1000,2 BHK,Furnished,"Shastri Nagar, Jodhpur",Jodhpur
+"15,000",1200,2 BHK,Unfurnished,vasundhara nagar,Jodhpur
+"22,500",1600,2 BHK,Unfurnished,Ajit Colony,Jodhpur
+"15,000",1500,2 BHK,Unfurnished,Gulab Nagar,Jodhpur
+"12,000",2400,2 BHK,Unfurnished,"Chopasni Housing Board, Jodhpur",Jodhpur
+"6,700",400,1 BHK,Unfurnished,nirmal flat ganpati nagar,Jodhpur
+"12,000",900,2 BHK,Furnished,dhanwantari hospital,Jodhpur
+"6,000",220,1 BHK,Unfurnished,"Sector 23 Chopasni Housing Board, Jodhpur",Jodhpur
+"6,000",240,1 BHK,Unfurnished,"Sector 23 Chopasni Housing Board, Jodhpur",Jodhpur
+"10,000",1250,2 BHK,Unfurnished,Ashapurna Valley,Jodhpur
+"8,500",346,1 BHK,Unfurnished,"Ratanada, Jodhpur",Jodhpur
+"8,500",280,1 BHK,Unfurnished,"Ratanada, Jodhpur",Jodhpur
+"15,000",1200,3 BHK,Unfurnished,"New Nagaur Road,Dhana Bera",Jodhpur
+"3,000",2,2 BHK,Furnished,"CHB,Sardarpura, Jodhpur",Jodhpur
+"8,000",1000,2 BHK,Unfurnished,"Khokhariya, Jodhpur",Jodhpur
+"9,000",1500,2 BHK,Unfurnished,"Chopasni Housing Board, Jodhpur",Jodhpur
+"14,000",130,2 BHK,Unfurnished,gayatri nagar,Jodhpur
+"12,000",1000,1 BHK,Unfurnished,B road,Jodhpur
+"7,500",1000,3 BHK,Unfurnished,"Jhalamand, Jodhpur",Jodhpur
+"15,000",1250,2 BHK,Unfurnished,"Pal Road, Jodhpur",Jodhpur
+"5,000",3200,2 BHK,Furnished,"Chandpole, Jodhpur",Jodhpur
+"10,500",1800,2 BHK,Unfurnished,"Sector 17 E Chopasni Housing Board, Jodhpur",Jodhpur
+"8,500",1500,2 BHK,Unfurnished,"Basni, Jodhpur",Jodhpur
+"6,000",1125,1 BHK,Unfurnished,Prasiddhi Park Dale,Jodhpur
+"25,000",10890,3 BHK,Furnished,Shree Ram Shubham The Villas,Jodhpur
+"12,000",1200,2 BHK,Furnished,"Adarsh Nagar, Jodhpur",Jodhpur
+"10,000",1000,3 BHK,Unfurnished,"Mandore, Jodhpur",Jodhpur
+"30,000",11000,3 BHK,Furnished,"Roop Nagar Second, Jodhpur",Jodhpur
+"16,000",3000,2 BHK,Unfurnished,"Paota, Jodhpur",Jodhpur
+"15,000",2700,2 BHK,Unfurnished,"BJS Colony, Jodhpur",Jodhpur
+"18,000",1000,2 BHK,Furnished,"Hari Om Nagar, Jodhpur",Jodhpur
+"14,999",481,2 BHK,Unfurnished,madhuban,Jodhpur
+"8,500",1250,3 BHK,Unfurnished,"Nandri, Jodhpur",Jodhpur
+"13,500",400,1 BHK,Unfurnished,"Mahamandir, Jodhpur",Jodhpur
+"12,000",1250,2 BHK,Unfurnished,"Milkman Colony, Jodhpur",Jodhpur
+"8,000",1000,2 BHK,Unfurnished,"Vigyan Nagar, Kota",Kota
+"14,000",1450,2 BHK,Unfurnished,"Shrinath Puram, Kota",Kota
+"10,000",800,2 BHK,Unfurnished,gokul dham kunhari,Kota
+"7,500",1250,1 BHK,Furnished,"Kunhari, Kota",Kota
+"10,000",800,2 BHK,Furnished,"Kunhari, Kota",Kota
+"13,000",1000,2 BHK,Unfurnished,"Mahaveer Nagar Housing Board Colony, Kota",Kota
+"11,000",1000,2 BHK,Unfurnished,paramsahaj owner house,Kota
+"8,000",800,2 BHK,Furnished,Parshavanath Pleasant,Kota
+"15,000",950,1 BHK,Furnished,"Rama Krishna Puram, Kota",Kota
+"3,000",144,1 BHK,Unfurnished,"Anantpura, Kota",Kota
+"12,500",1250,2 BHK,Unfurnished,"Vinobha Bhave Nagar, Kota",Kota
+"18,000",1250,3 BHK,Unfurnished,Talwandi sector,Kota
+"10,000",396,1 BHK,Furnished,"Talwandi, Kota",Kota
+"16,500",1200,2 BHK,Furnished,"Mahaveer Nagar, Kota",Kota
+"14,000",1750,3 BHK,Unfurnished,Shubh Savera,Kota
+"7,500",650,1 BHK,Furnished,adarsh nagar bundi road,Kota
+"8,500",2000,2 BHK,Furnished,"Mahaveer Nagar Housing Board Colony, Kota",Kota
+"35,000",4500,3 BHK,Unfurnished,"Indra Vihar, Kota",Kota
+"12,000",1210,2 BHK,Unfurnished,"Shrinath Puram, Kota",Kota
+"12,000",800,2 BHK,Unfurnished,"Gumanpura, Kota",Kota
+"6,500",150,1 BHK,Furnished,"Indra Vihar, Kota",Kota
+"15,000",1500,3 BHK,Unfurnished,pratap nagar borkhera,Kota
+"11,500",1040,2 BHK,Unfurnished,Shree Nath Royal City,Kota
+"18,000",1350,3 BHK,Unfurnished,"New Jawahar Nagar, Kota",Kota
+"18,000",1500,2 BHK,Unfurnished,"Shrinath Puram, Kota",Kota
+"3,000",700,3 BHK,Unfurnished,"Kethun, Kota",Kota
+"15,000",1000,3 BHK,Furnished,"Rangbari, Kota",Kota
+"10,000",1000,2 BHK,Unfurnished,"Kunhari, Kota",Kota
+"15,000",1600,2 BHK,Unfurnished,"Krishna Nagar, Kota",Kota
+"25,000",1800,3 BHK,Unfurnished,"1st floor ,D12 BARWADA HOUSE RHB COLONY VALLABHBARI KOTA, Kota",Kota
+"9,000",1400,3 BHK,Unfurnished,"Police Line, Kota",Kota
+"18,000",1400,2 BHK,Unfurnished,"Shrinath Puram, Kota",Kota
+"5,000",1250,1 BHK,Unfurnished,"Akshar Dham Colony, Kota",Kota
+"17,000",1800,3 BHK,Unfurnished,friends colony grampolice line road,Kota
+"7,000",700,1 BHK,Unfurnished,"Borkhera, Kota",Kota
+"18,000",2800,2 BHK,Furnished,"Sector A, Shrinath Puram, Kota",Kota
+"18,000",1300,2 BHK,Furnished,"Sector A, Shrinath Puram, Kota",Kota
+"8,500",1200,2 BHK,Unfurnished,"Dadwara, Kota",Kota
+"13,500",1200,2 BHK,Unfurnished,"697A, R.K. Puram,Near Disha Delphi School, Kota",Kota
+"8,000",1250,2 BHK,Furnished,"Naya Nohra, Kota",Kota
+"15,000",1500,2 BHK,Unfurnished,Gayatri Vihar,Kota
+"30,000",1250,2 BHK,Unfurnished,"New Jawahar Nagar, Kota",Kota
+"12,000",1250,2 BHK,Unfurnished,"67, Lotus Villa, Borkheda",Kota
+"9,500",400,1 BHK,Unfurnished,"Shrinath Puram, Kota",Kota
+"15,000",1750,3 BHK,Unfurnished,Sumangalam Shubh Savera,Kota
+"12,500",1500,3 BHK,Furnished,"House no. 2, Anand Vihar Colony",Kota
+"13,000",1200,2 BHK,Unfurnished,"R K Puram Sector A, Kota",Kota
+"13,000",1250,2 BHK,Unfurnished,"Bajrang Nagar, Kota",Kota
+"10,000",600,2 BHK,Unfurnished,"Subhash Nagar, Kota",Kota
+"30,000",3100,3 BHK,Furnished,"Aerodrome Circle, Kota",Kota
+"5,000",500,2 BHK,Unfurnished,"Nayapura, Kota",Kota
+"7,000",160,1 BHK,Unfurnished,"Vigyan Nagar, Kota",Kota
+"9,500",500,1 BHK,Furnished,"Kunhari, Kota",Kota
+"7,600",550,1 BHK,Furnished,Landmark Paradise,Kota
+"13,000",1000,3 BHK,Furnished,"Naya Nohra, Kota",Kota
+"2,000",200,1 BHK,Unfurnished,"Mahaveer Nagar 3, Kota",Kota
+"7,000",600,2 BHK,Unfurnished,"Rangbari, Kota",Kota
+"7,000",1000,1 BHK,Unfurnished,"Borkhera, Kota",Kota
+"7,000",1000,2 BHK,Unfurnished,"Borkhera, Kota",Kota
+"10,000",700,3 BHK,Unfurnished,"Raipura, Kota",Kota
+"9,500",2000,3 BHK,Furnished,"Aerodrome Circle, Kota",Kota
+"18,000",1500,3 BHK,Unfurnished,Royal Prime,Kota
+"13,000",1250,2 BHK,Unfurnished,"R K Puram Sector A, Kota",Kota
+"10,000",1000,2 BHK,Furnished,"Jawahar Nagar, Kota",Kota
+"8,500",1500,1 BHK,Unfurnished,"Mahaveer Nagar Extension, Kota",Kota
+"8,500",2500,2 BHK,Unfurnished,Mahaveer Nagar lll,Kota
+"15,000",1000,3 BHK,Unfurnished,"Anantpura, Kota",Kota
+"18,000",900,2 BHK,Furnished,"Talwandi, Kota",Kota
+"6,000",300,1 BHK,Unfurnished,"Borkhera, Kota",Kota
+"13,500",1250,2 BHK,Unfurnished,"R K Puram Sector A, Kota",Kota
+"4,000",1100,1 BHK,Unfurnished,"hariom nagar, Kota",Kota
+"15,000",1250,2 BHK,Unfurnished,Suwalka Riddhi Siddhi Nagar 1,Kota
+"20,000",1250,3 BHK,Furnished,"Mahaveer Nagar Housing Board Colony, Kota",Kota
+"10,000",1000,2 BHK,Unfurnished,"Shrinath Puram, Kota",Kota
+"7,000",1000,2 BHK,Unfurnished,"Dadwara, Kota",Kota
+"15,500",1100,3 BHK,Furnished,"Rangbari, Kota",Kota
+"12,000",1250,3 BHK,Unfurnished,B SECTOR,Kota
+"8,000",1200,2 BHK,Unfurnished,"Mahaveer Nagar 2nd, Kota",Kota
+"6,000",800,2 BHK,Unfurnished,Independence house villa,Kota
+"17,500",3600,2 BHK,Unfurnished,"Shrinath Puram, Kota",Kota
+"2,800",610,2 BHK,Unfurnished,"Mahaveer Nagar 3, Kota",Kota
+"15,000",1200,2 BHK,Unfurnished,"Borkhera, Kota",Kota
+"10,000",1000,2 BHK,Unfurnished,Shubham Silicon City,Kota
+"4,888",300,2 BHK,Furnished,"Talwandi, Kota",Kota
+"7,000",1400,2 BHK,Unfurnished,rangbadi yojna mhavirnager,Kota
+"20,000",1375,2 BHK,Unfurnished,Shubham Silicon City,Kota
+"13,000",1900,2 BHK,Unfurnished,"Vivekananda Nagar, Kota",Kota
+"2,500",950,1 BHK,Furnished,land mark yogi residency,Kota
+"4,200",300,1 BHK,Unfurnished,"Mahaveer Nagar, Kota",Kota
+"5,000",1200,2 BHK,Unfurnished,Habib Khan pg,Kota
+"36,000",1900,3 BHK,Unfurnished,Bapna Hieghts,Udaipur
+"30,000",2110,3 BHK,Unfurnished,Udaipur Royal Rajvilas,Udaipur
+"35,000",2730,3 BHK,Furnished,GULSHAN Gokul Bliss,Udaipur
+"45,000",2437,3 BHK,Furnished,Archi The Harmony,Udaipur
+"32,000",1950,3 BHK,Furnished,The Celebration Mall,Udaipur
+"28,000",1800,3 BHK,Unfurnished,Goverdhan Vilas,Udaipur
+"16,000",1175,2 BHK,Unfurnished,Miraj Malhar,Udaipur
+"9,500",800,2 BHK,Unfurnished,"Fatehpura, Udaipur",Udaipur
+"9,500",800,2 BHK,Unfurnished,batheda colony,Udaipur
+"19,000",1900,3 BHK,Unfurnished,Sky Garden Apartment,Udaipur
+"28,000",1050,3 BHK,Furnished,"Mali Colony, Udaipur",Udaipur
+"28,000",1450,3 BHK,Furnished,Shree Ramdoot heights,Udaipur
+"20,000",1500,2 BHK,Unfurnished,"Sector 3 Hiran Magri, Udaipur",Udaipur
+"24,000",650,2 BHK,Furnished,"Bedla, Udaipur",Udaipur
+"13,000",1500,2 BHK,Unfurnished,"Sajjan Nagar, Udaipur",Udaipur
+"15,000",2000,2 BHK,Unfurnished,"Pahada, Udaipur",Udaipur
+"7,999",1200,1 BHK,Unfurnished,"Sector 14 Hiran Magri, Udaipur",Udaipur
+"11,500",1000,2 BHK,Unfurnished,"Sector-11 Hiran Magri, Udaipur",Udaipur
+"10,000",900,2 BHK,Unfurnished,"Balicha, Udaipur",Udaipur
+"9,000",900,2 BHK,Unfurnished,"Badgaon, Udaipur",Udaipur
+"20,000",1755,3 BHK,Unfurnished,Siddhi vinayak residency,Udaipur
+"15,000",2200,2 BHK,Unfurnished,"kalka mata road, Udaipur",Udaipur
+"16,500",1000,2 BHK,Unfurnished,"Meera Nagar, Udaipur",Udaipur
+"12,000",1200,2 BHK,Unfurnished,"Raghunathpura, Udaipur",Udaipur
+"21,000",1550,2 BHK,Furnished,Designer Heights,Udaipur
+"15,000",1500,3 BHK,Unfurnished,Sheetal Heights,Udaipur
+"11,000",1650,1 BHK,Unfurnished,"Mahaveer Colony Park, Udaipur",Udaipur
+"12,000",1200,2 BHK,Unfurnished,"kapil vihar bedwas, Udaipur",Udaipur
+"18,000",2500,2 BHK,Unfurnished,"Adarsh colony pulla bhuwana, Udaipur",Udaipur
+"26,000",1440,3 BHK,Furnished,Eden Court,Udaipur
+"26,000",1440,3 BHK,Furnished,Eden Court,Udaipur
+"15,000",2500,1 BHK,Furnished,gupteshwar nagar sector 7,Udaipur
+"27,000",1200,3 BHK,Unfurnished,Rameshwaram Apartment,Udaipur
+"12,500",800,1 BHK,Unfurnished,"Sector 3 , Opp Vivek Park, Udaipur",Udaipur
+"11,500",1000,2 BHK,Unfurnished,Sector No. 8,Udaipur
+"16,000",800,2 BHK,Unfurnished,"Bedla, Udaipur",Udaipur
+"25,000",500,1 BHK,Unfurnished,"Surajpole, Udaipur",Udaipur
+"15,000",500,1 BHK,Unfurnished,rishabh dev colony,Udaipur
+"9,500",1200,2 BHK,Unfurnished,Bedla Badgaum Link Road,Udaipur
+"10,000",2000,2 BHK,Unfurnished,"Sector 5 Hiran Magri, Udaipur",Udaipur
+"7,900",800,1 BHK,Unfurnished,"Meera Nagar, Udaipur",Udaipur
+"20,000",1890,3 BHK,Unfurnished,Mahaviram Luxury Homes,Udaipur
+"22,000",1650,3 BHK,Furnished,SMB Residence,Udaipur
+"20,000",1890,3 BHK,Unfurnished,Dharti Mahaviram,Udaipur
+"14,000",840,2 BHK,Unfurnished,Aristo Enclave,Udaipur
+"14,000",1200,2 BHK,Furnished,"Sector 4 Hiran Magri, Udaipur",Udaipur
+"13,000",1500,2 BHK,Unfurnished,"Sector 14 Hiran Magri, Udaipur",Udaipur
+"18,000",1350,3 BHK,Unfurnished,Akme Paradise,Udaipur
+"20,000",1152,3 BHK,Unfurnished,SMB Residence,Udaipur
+"10,000",1000,1 BHK,Furnished,Shobhaghpura,Udaipur
+"10,000",1000,1 BHK,Furnished,University Road,Udaipur
+"11,000",900,2 BHK,Unfurnished,First floor,Udaipur
+"10,000",450,1 BHK,Unfurnished,"Hiran Magri  , Udaipur",Udaipur
+"25,000",1500,3 BHK,Unfurnished,shree ram colony jarno ki saray,Udaipur
+"9,000",1500,1 BHK,Unfurnished,"Gandhi Nagar, Udaipur",Udaipur
+"18,000",2000,3 BHK,Unfurnished,"Sector 4 Hiran Magri, Udaipur",Udaipur
+"18,000",1250,2 BHK,Unfurnished,"Rampura, Udaipur",Udaipur
+"30,000",2000,3 BHK,Unfurnished,"Bhupalpura, Udaipur",Udaipur
+"7,000",1000,3 BHK,Unfurnished,"Bhinder, Udaipur",Udaipur
+"16,500",3500,2 BHK,Unfurnished,shyam nagar B block,Udaipur
+"12,000",1125,1 BHK,Unfurnished,Aaditya Hridayam,Udaipur
+"32,000",1742,3 BHK,Unfurnished,Archi Lovenest,Udaipur
+"55,000",1152,3 BHK,Unfurnished,"New Rajender Nagar, Udaipur",Udaipur
+"17,500",1200,3 BHK,Unfurnished,"Transport Nagar, Udaipur",Udaipur
+"8,000",1800,2 BHK,Unfurnished,"Rakampura, Udaipur",Udaipur
+"15,000",1800,3 BHK,Unfurnished,Soham Villas Abs Tatvam Villas,Udaipur
+"18,000",5800,3 BHK,Unfurnished,bhagwan parshuram colony,Udaipur
+"13,000",650,1 BHK,Furnished,Alliance Anmol,Udaipur
+"50,000",2200,3 BHK,Unfurnished,Navratan Complex,Udaipur
+"4,000",700,1 BHK,Unfurnished,"Balicha, Udaipur",Udaipur
+"35,000",2000,2 BHK,Furnished,"Sector 4 Hiran Magri, Udaipur",Udaipur
+"8,000",500,1 BHK,Unfurnished,Dharti Dhan Vihar,Udaipur
+"10,000",1000,1 BHK,Furnished,Keshav Nagar,Udaipur
+"10,500",700,2 BHK,Unfurnished,"Jai Shree Colony, Udaipur",Udaipur
+"10,000",210,1 BHK,Furnished,Vinayak Residency,Udaipur
+"11,000",900,2 BHK,Unfurnished,"Pratap Nagar, Udaipur",Udaipur
+"7,500",1500,1 BHK,Unfurnished,"Pahada, Udaipur",Udaipur
+"6,000",120,1 BHK,Unfurnished,"Panchwati, Udaipur",Udaipur
+"30,000",1920,3 BHK,Furnished,Kardhar,Udaipur
+"22,000",1500,2 BHK,Furnished,"Kharakua, Udaipur",Udaipur
+"4,500",550,1 BHK,Unfurnished,"Hiran Magri  , Udaipur",Udaipur
+"24,000",2000,2 BHK,Unfurnished,13 SHANTI VAN,Udaipur
+"14,000",200,1 BHK,Furnished,"Bhuwana, Udaipur",Udaipur
+"19,000",1800,3 BHK,Unfurnished,"Saheli Nagar, Udaipur",Udaipur
+"11,000",500,1 BHK,Furnished,"pula rk circle, Udaipur",Udaipur
+"15,000",1300,2 BHK,Unfurnished,"Mahaveer Nagar, Hiran Magri",Udaipur
+"15,000",1300,2 BHK,Unfurnished,Mahaveer Nagar,Udaipur
+"11,500",1100,2 BHK,Unfurnished,"GBH PRTAPNAGAR, Udaipur",Udaipur
+"15,000",1500,3 BHK,Unfurnished,"Sector 14 Hiran Magri, Udaipur",Udaipur
+"15,000",2500,2 BHK,Unfurnished,"Sector-11 Hiran Magri, Udaipur",Udaipur
+"3,500",355,2 BHK,Unfurnished,"Chitrakoot Nagar, Udaipur",Udaipur
+"6,800",700,2 BHK,Unfurnished,Sanchi Homes,Udaipur
+"6,800",720,2 BHK,Unfurnished,Sanchi Homes,Udaipur
+"15,000",900,1 BHK,Furnished,"Panchwati, Udaipur",Udaipur
+"12,000",750,2 BHK,Unfurnished,rajkamal apartment,Udaipur
+"15,000",1210,1 BHK,Unfurnished,"Ashok Nagar, Udaipur",Udaipur
+"8,000",1100,2 BHK,Unfurnished,"Badgaon, Udaipur",Udaipur
+"9,000",900,1 BHK,Unfurnished,"Nokha, Udaipur",Udaipur
+"9,000",798,2 BHK,Unfurnished,Silver Residency,Udaipur
+"35,000",1565,3 BHK,Unfurnished,Bula Aadi Regency,Udaipur
+"9,500",1300,1 BHK,Unfurnished,Navratan Complex,Udaipur
+"21,000",1787,3 BHK,Unfurnished,Miraj Malhar,Udaipur
+"11,000",1300,1 BHK,Unfurnished,"Shobhagpura, Udaipur",Udaipur
+"30,000",1867,3 BHK,Furnished,Sneh Rudram Chitrakoot,Udaipur
+"22,000",1100,2 BHK,Furnished,"Pratap Nagar, Udaipur",Udaipur
+"33,000",2500,3 BHK,Furnished,The Celebration Mall,Udaipur
+"40,000",2437,3 BHK,Unfurnished,Archi The Harmony,Udaipur
+"10,000",1500,1 BHK,Unfurnished,Salokaya Apartments,Udaipur
+"18,000",1250,2 BHK,Furnished,Lotus Park,Udaipur
+"30,000",1578,3 BHK,Unfurnished,Lake City Residency,Udaipur
+"8,500",150,1 BHK,Unfurnished,Rampura,Udaipur
+"30,000",1950,3 BHK,Furnished,"Sector 14 Hiran Magiri, Udaipur",Udaipur
+"8,000",400,1 BHK,Unfurnished,"Meera Nagar, Udaipur",Udaipur
+"18,000",1750,3 BHK,Unfurnished,Akme Paradise,Udaipur
+12000,1000,1 BHK,Furnished,"Panchwati, Udaipur",Udaipur
+"20,000",1300,3 BHK,Unfurnished,Navratan Complex,Udaipur
+"5,000",1800,1 BHK,Unfurnished,"Badgaon, Udaipur",Udaipur
+"16,000",2000,1 BHK,Unfurnished,"Pahada, Udaipur",Udaipur
+"14,000",1500,1 BHK,Furnished,Bohra ganesh colony Dhulkot choraya,Udaipur
+"13,000",700,1 BHK,Unfurnished,"Soni ji ki badi, Ayad",Udaipur
+"17,000",1000,2 BHK,Unfurnished,The Celebration Mall,Udaipur
+"5,000",700,1 BHK,Furnished,"Savina, Udaipur",Udaipur
+"27,000",2200,3 BHK,Furnished,shree radhey,Udaipur
+"20,000",1920,2 BHK,Furnished,"Sector 14 Hiran Magri, Udaipur",Udaipur
+"22,000",1460,3 BHK,Furnished,Sheetal Heights,Udaipur
+"11,000",925,3 BHK,Unfurnished,Madhuvan Homes,Sikar
+"10,000",1000,2 BHK,Unfurnished,Agarwal House,Sikar
+"6,000",200,1 BHK,Unfurnished,Kisan vihar,Sikar
+"6,000",200,1 BHK,Unfurnished,Kisan colony,Sikar
+"10,500",1100,2 BHK,Unfurnished,Housing board Sikar,Sikar
+"12,000",1100,2 BHK,Unfurnished,Housing board Sikar,Sikar
+"12,500",500,2 BHK,Unfurnished,Shree Krishna Residency,Sikar
+"11,000",650,2 BHK,Unfurnished,"Ashirwad Residency, kishan colony",Sikar
+"8,000",1000,3 BHK,Unfurnished,"Chandpol, Sikar",Sikar
+"35,000",10000,2 BHK,Unfurnished,"Anand Nagar, Sikar",Sikar
+"12,500",9000,2 BHK,Unfurnished,Shiv Colony Residential Scheme,Sikar
+"10,000",742,3 BHK,Unfurnished,Madhuvan Homes,Sikar
+"8,500",340,1 BHK,Unfurnished,Adarsh vihar,Sikar
+"11,000",2100,2 BHK,Unfurnished,"Balaji Vihar, Sikar",Sikar
+"8,000",1800,2 BHK,Unfurnished,"Nani, Sikar",Sikar
+"8,000",600,2 BHK,Unfurnished,Prem Vihar Awasiya Colony,Sikar
+"8,000",1000,1 BHK,Unfurnished,Soldiers Colony,Sikar
+"8,000",80,1 BHK,Unfurnished,Suman Apartment,Sikar
+"20,000",1200,3 BHK,Unfurnished,Samproon,Sikar
+"23,000",1000,3 BHK,Furnished,rameshwaram nivas,Sikar
+"9,000",1000,2 BHK,Unfurnished,Raghukul Shiv Shakti,Sikar
+"5,000",900,1 BHK,Unfurnished,"Bhadwasi, Sikar",Sikar
+"10,000",650,2 BHK,Unfurnished,balaji dreem city,Sikar
+"16,000",739,2 BHK,Furnished,Manav City,Sikar
+"8,500",186,1 BHK,Unfurnished,"Choudhary Dhram Kantta, Sikar",Sikar
+"12,500",500,1 BHK,Furnished,harshndndini aparment,Sikar
+"13,000",600,2 BHK,Unfurnished,"Vasant Vihar, Sikar",Sikar
+"14,000",1800,2 BHK,Unfurnished,"Todinagar, Sikar",Sikar
+"12,000",3000,3 BHK,Unfurnished,virasat bavan,Sikar
+"8,500",3000,2 BHK,Unfurnished,virasat bavan,Sikar
+"10,000",900,2 BHK,Unfurnished,palwas Road,Sikar
+"13,000",1000,2 BHK,Furnished,Palwas Chouraha,Sikar
+"8,500",750,2 BHK,Unfurnished,Tanishq regidency,Sikar
+"8,000",750,1 BHK,Unfurnished,Moti Vihar Aawasiya Yojna,Sikar
+"7,000",150,1 BHK,Furnished,"Radhakishan Pura, Sikar",Sikar
+"17,500",2500,3 BHK,Furnished,"Radhakishan Pura, Sikar",Sikar
+"5,000",500,1 BHK,Unfurnished,"Vasant Vihar, Sikar",Sikar
+"11,000",1050,3 BHK,Unfurnished,Siddhi Vinayak Apartment,Sikar
+"7,000",300,2 BHK,Unfurnished,"Balaji Vihar, Sikar",Sikar
+"6,000",300,1 BHK,Unfurnished,New housing board shivsinghpura,Sikar
+"6,500",800,2 BHK,Unfurnished,"hotel vijayraj, Sikar",Sikar
+"6,500",800,2 BHK,Unfurnished,"Jaipur road pooniyan wines, Sikar",Sikar
+"7,500",500,2 BHK,Unfurnished,L R Rameshwaram Residency,Sikar
+"5,500",1125,1 BHK,Unfurnished,Metro City,Sikar
+"7,000",1150,1 BHK,Unfurnished,Maharaja Surajmal Awasiaya Yojana,Sikar
+"9,000",300,1 BHK,Unfurnished,Rameshwaram niwas,Sikar
+"3,500",100,1 BHK,Unfurnished,"Jaipur road, Sikar",Sikar
+"12,000",8712000,3 BHK,Furnished,Krishna Vihar Phase 3,Sikar
+"9,500",550,2 BHK,Unfurnished,matra chaya 2 radha kishan pura,Sikar
+"8,300",580,2 BHK,Unfurnished,Ashirwad Residency,Sikar
+"8,300",587,2 BHK,Unfurnished,Ashirwad Residency,Sikar
+"4,000",5000,2 BHK,Unfurnished,"Radhakishan Pura, Sikar",Sikar
+"10,000",2100,2 BHK,Unfurnished,"New Indira Colony, Sikar",Sikar
+"12,000",1000,3 BHK,Unfurnished,KHYALIA NIVAS,Sikar
+"12,000",100,2 BHK,Unfurnished,guru krupa,Sikar
+"5,000",500,2 BHK,Unfurnished,"Gokulpura, Sikar",Sikar
+"5,000",750,2 BHK,Unfurnished,"Prince School, Sikar",Sikar
+"8,000",1500,2 BHK,Unfurnished,Sada shiv colony,Sikar
+"7,500",132,1 BHK,Unfurnished,Maruti Vihar Aawasiya Yojna,Sikar
+"12,000",800,2 BHK,Unfurnished,Yadav Om Heights,Sikar
+"10,000",600,2 BHK,Unfurnished,matrachaya residency,Sikar
+"7,000",600,1 BHK,Unfurnished,Narayani Vihar 3,Sikar
+"8,000",500,2 BHK,Unfurnished,Radhika Vatika 3,Sikar
